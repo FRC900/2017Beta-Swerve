@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "192.168.128.234"
+
+[Target]
+Target = "10.9.0.2"
+
